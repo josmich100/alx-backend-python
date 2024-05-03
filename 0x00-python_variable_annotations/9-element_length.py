@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 '''
-This module contains the function element_length that takes a list of strings and returns a list of tuples with a string and its length
+This module contains the function element_length 
+that takes a list of strings and returns a 
+list of tuples with a string and its length
 '''
 
 

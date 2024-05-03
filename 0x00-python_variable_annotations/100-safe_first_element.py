@@ -1,6 +1,9 @@
 #!/usr/bin/env python3
 '''
-This module contains the function safe_first_element that takes a list of any type and returns the first element of the list if it exists, otherwise None
+This module contains the function 
+safe_first_element that takes a list 
+of any type and returns the first element 
+of the list if it exists, otherwise None
 '''
 
 

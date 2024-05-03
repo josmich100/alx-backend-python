@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 '''
-This module contains the function concat that takes two strings and returns their concatenation
+This module contains the function concat that takes 
+two strings and returns their concatenation
 '''
 
 

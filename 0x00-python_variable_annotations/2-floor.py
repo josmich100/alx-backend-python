@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 '''
-This module contains the function floor that takes a float n and returns the floor of the float
+This module contains the function floor that 
+takes a float n and returns the floor of the float
 '''
 
 
