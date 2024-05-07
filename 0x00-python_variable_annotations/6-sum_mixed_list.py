@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 '''
-This module contains the function sum_mixed_list that 
+This module contains the function sum_mixed_list that
 takes a list of integers and floats and returns their sum
 '''
 

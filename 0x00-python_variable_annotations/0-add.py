@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 '''
-This module contains the function add that takes 
+This module contains the function add that takes
 two floats and returns their sum
 '''
 

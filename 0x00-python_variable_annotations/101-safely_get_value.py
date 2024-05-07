@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 '''
-This module contains the function safely_get_value 
-that takes a dictionary and a key and returns the value 
+This module contains the function safely_get_value
+that takes a dictionary and a key and returns the value
 of the key if it exists, otherwise None
 '''
 
